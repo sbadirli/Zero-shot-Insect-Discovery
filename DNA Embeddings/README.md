@@ -6,7 +6,7 @@ This is a ReadMe file for running the Jupyter Notebooks created for DNA-Embeddin
 
 ## Prerequisites
 
-The code was implemented in Python 3.7.10 and utilized the packages (full list) in `requirements.txt' file. The platform I used was Windows-10. Most important packages you need are the followings:
+The code was implemented in Python 3.7.10 and utilized the packages (full list) in `requirements.txt` file. The platform I used was Windows-10. Most important packages you need are the followings:
 ```
 tensorflow=2.1.0
 numpy=1.19.2 
