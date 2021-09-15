@@ -1,6 +1,6 @@
 # Open-set Insect Discovery.
 
-GitHub repo for our paper "Classifying the Unknown: Identification of Insectsby Deep Open-set Bayesian Learning" 
+GitHub repo for our paper "Classifying the Unknown: Identification of Insects by Deep Open-set Bayesian Learning" 
 
 Paper at: https://arxiv.org/pdf/2002.07971.pdf
 
