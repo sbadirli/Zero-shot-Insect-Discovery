@@ -44,5 +44,8 @@ Note that there are 2 data files: `data.mat` and 	`splits.mat`. The  variables a
 To reproduce the results from the paper, open the `Demo.m` script and specify the dataset and model version. Please change the datapath to your project path in `Demo.m` script.
 
 If you want to perform hyperparameter tuning, please set the `tuning=true` in  `Demo.m` script.
+  
+## News
+Python version is coming soon, stay tuned!!!
 
  
