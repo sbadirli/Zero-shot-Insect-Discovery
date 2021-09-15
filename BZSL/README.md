@@ -1,4 +1,4 @@
-# Bayesian Zero-Shot Learning (BZSL) model
+# Bayesian classifier for open-set classification
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ The code was implemented in Matlab 2020. Any version greater 2016 should be fine
 
 ## Data
 
-You may download the data from this anonymous [link](https://www.dropbox.com/sh/gt6tkech0nvftk5/AADOUJc_Bty3sqOsqWHxhmULa?dl=0). Please put dataset into `data` folder and move the `data` folder into the same directory which contains the folders for codes.
+You may download the data from this anonymous [link](). Please put dataset into `data` folder and move the `data` folder into the same directory which contains the folders for codes.
 
 Note that there are 2 data files: `data.mat` and 	`splits.mat`. The  variables and their explanations are listed below:
 
