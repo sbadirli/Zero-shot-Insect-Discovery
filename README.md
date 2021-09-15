@@ -10,4 +10,4 @@ Paper at: https://arxiv.org/pdf/2002.07971.pdf
 <p align="justify">
 
 
-Please see the ReadMe files inside of the relevant folders, `Bayesian classifier` and `DNA embeddings`, for the instructions to run codes.
+Please see the ReadMe files inside of the relevant folders, `Bayesian classifier` and `DNA embeddings`, for the instructions to run experiments.
