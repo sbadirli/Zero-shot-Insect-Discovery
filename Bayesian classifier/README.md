@@ -1,4 +1,4 @@
-# Bayesian classifier for open-set classification
+# Bayesian classifier for Zero-shot insect discovery
 
 ## Getting Started
 
